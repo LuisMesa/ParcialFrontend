@@ -66,7 +66,7 @@ class App extends Component {
               <div className="group">
                 <Buscador obtenerFotosWithQueryColor={this.obtenerFotosWithQueryColor.bind(this)}/>
                 <p className="info">Search for something on Flicker and you will see a rainbow of it, if you want to see
-                  some image on Flicker.com just click on it</p>
+                  some image on Flicker.com just click on it. Designed and developed by Luis Mesa.</p>
               </div>
             </div>
             <div className="col-md-3"></div>
