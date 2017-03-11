@@ -3,7 +3,7 @@ import axios from 'axios';
 import Foto from './foto';
 import Buscador from './Buscador';
 
-const URL = 'http://localhost:1337';
+const URL = 'https://parcial1-backend.herokuapp.com';
 
 const colores = ['purple', 'blue', 'green', 'yellow', 'orange', 'red'];
 const numFilas = 6;
